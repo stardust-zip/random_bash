@@ -1,4 +1,1 @@
 # Random useful bashscript
-
-
-T
